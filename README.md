@@ -25,6 +25,6 @@ ____
 
 ### Contacts
 
-<a href="https://vk.com/dendilll"> <img alt="VK" width="26px" src="https://cdn.worldvectorlogo.com/logos/vk-com-logo.svg"/> <br/> </a>
-<a href="https://instagram.com/dendilll"> <img alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png"/> <br/> </a>
-<a href="https://www.codewars.com/users/dendil"> <img alt="CodeWars" width="26px" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" /> <br/> </a>
+<a href="https://vk.com/dendilll"> <img alt="VK" width="26px" src="https://cdn.worldvectorlogo.com/logos/vk-com-logo.svg"/>
+<a href="https://instagram.com/dendilll"> <img alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png"/>
+<a href="https://www.codewars.com/users/dendil"> <img alt="CodeWars" width="26px" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />
