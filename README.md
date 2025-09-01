@@ -1,1 +1,1 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp6MWxjeXo3eTI5MG9vemFpMXJ0eHY0cTZub2syeWY1aG0zMW1ibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJmzcbqfIe36ADUD68/giphy.gif"/>
+<img src="https://media1.tenor.com/m/Dab50ekUErgAAAAC/south-park-cartman.gif"/>
